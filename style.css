@@ -2,55 +2,91 @@
 
 
     background-color: #0000ff90;
+    margin: 3px;
+    padding: 1px;
 }
 
 #para-2{
 
 
     background-color: #f08080;
+    margin: 3px;
+    padding: 1px;
 }    
 
 #para-3{
     background-color: #00ff9d9e;
+    margin: 3px;
+    padding: 1px;
 }
 #para-4{
     background-color: #40a3fafa;
+    margin: 3px;
+    padding: 1px;
 }
 #para-5{
     background-color: #f5f5dc;
+    margin: 3px;
+    padding: 1px;
 }
 #para-6{
     background-color:#fafad2;
+    margin: 3px;
+    padding: 1px;
 }
 #para-7{
     background-color: #dcdcdc;
+    margin: 3px;
+    padding: 1px;
 }    
 #para-8{
     background-color: #00ff00;
+    margin: 3px;
+    padding: 1px;
 }
 #para-9{
     background-color: #ffb6c1;
+    margin: 3px;
+    padding: 1px;
 }
 #para-10{
     background-color: #fcaaaa;
+    margin: 3px;
+    padding: 1px;
 }
 #para-11{
-    background-color: #f5c5cd;
+    background-color: #f5c5cd;    
+    margin: 3px;
+    padding: 1px;
 }
 #para-12{
     background-color:#fe96a7 ;
+    margin: 3px;
+    padding: 1px;
 }
 #para-13{
     background-color: #ff93a5;
+    margin: 3px;
+    padding: 1px;
 }
 #para-14{
     background-color: #ff7e93;
+    margin: 3px;
+    padding: 1px;
 }
 #para-15{
     background-color: #ff69b4;
+    margin: 3px;
+    padding: 1px;
 }
 
 #head-one{
     background-color: #f5f5dc;
+    text-align: center;
+    border: 2px solid #f5f5dc;
+    
+}
+*{
+    background-color:#663399;
     
 }
